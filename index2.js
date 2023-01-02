@@ -1,4 +1,4 @@
-const codeforcesHandle = "nilan12";
+const codeforcesHandle = "nilan11";
 const githubUsername = "nilan425";
 
 const codeforcesHandleDiv = document.getElementById("cf-handle");
